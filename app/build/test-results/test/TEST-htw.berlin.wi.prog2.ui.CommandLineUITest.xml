@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="htw.berlin.wi.prog2.ui.CommandLineUITest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-13T18:58:12" hostname="MacBook-Air-von-Ferdous.local" time="0.055">
+  <properties/>
+  <testcase name="calls the parser with correct input line" classname="htw.berlin.wi.prog2.ui.CommandLineUITest" time="0.045"/>
+  <testcase name="text input loop should get a first input line" classname="htw.berlin.wi.prog2.ui.CommandLineUITest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="htw.berlin.wi.prog2.service.BowlBuilderTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-05-13T18:58:12" hostname="MacBook-Air-von-Ferdous.local" time="0.013">
+  <properties/>
+  <testcase name="can build two dynamically computed bowls after another without mixing things up" classname="htw.berlin.wi.prog2.service.BowlBuilderTest" time="0.003"/>
+  <testcase name="can build a precomputed bowl with two ingredients" classname="htw.berlin.wi.prog2.service.BowlBuilderTest" time="0.001"/>
+  <testcase name="a bowl should have at least two ingredients" classname="htw.berlin.wi.prog2.service.BowlBuilderTest" time="0.003"/>
+  <testcase name="can build a dynamically computed bowl with two ingredients" classname="htw.berlin.wi.prog2.service.BowlBuilderTest" time="0.001"/>
+  <testcase name="can build two precomputed bowls after another without mixing things up" classname="htw.berlin.wi.prog2.service.BowlBuilderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
